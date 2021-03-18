@@ -1,0 +1,14 @@
+# compile as bibliotecas
+g++ -c *.cpp
+
+# compilar em um executavel linux
+
+g++ -o Hanoi *.o
+
+# apagar arquivos temporarios
+rm ./*.o
+
+#executar 
+./Hanoi
+
+
