@@ -1,0 +1,5 @@
+gcc cpy.c -o cpy
+
+## exemplo
+./cpy cpy.c cpy2.c
+
