@@ -87,7 +87,7 @@ class Teclado(QWidget):
             self.__clear()
             return
         if id in ['*', '^', '/', '-', '+']:
-            if self.lastTxt in ['7', '8', '9', '4', '5', '6', '1', '2', '3', '0',')', '.']:
+            if self.lastTxt in ['7', '8', '9', '4', '5', '6', '1', '2', '3', '0',')','π', '.']:
                 self.__put(id)
             elif id == '-' and self.lastTxt in ['(', ')', '+', '/', '*', '']:
                 self.__put(id)
