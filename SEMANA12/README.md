@@ -26,5 +26,22 @@ evitando alguns problemas.
 
 
 #[Entendendo Conceitos Básicos de CRIPTOGRAFIA](https://youtu.be/CcU5Kc_FN_4)
+
 O melhor metodo para armazernar senhas é o uso da criptografia unidirecional, onde o embarcado salva apenas o codigo digerido e quando a senha é inserida é feito o hash novamente e comparada.
+Nunca guardar as senhas em modo texto ou encriptadas, apenas no modo hash.
+
+ Como a criptografia simetrica funciona?
+ 
+INSERE CHAVE, INSERE MENSAGEM
+PASSA POR FUNÇÃO
+É GERADO A CIPHER (MENSAGEM CRIPTOGRAFADA)
+
+INSERE CHAVE, INSERE CIPHER
+PASSA POR FUNÇÃO 
+É DEVOLVIDO A MENSAGEM ORIGINAL
+
+
+
+a criptografia é possivel recuperar a mensagem original, o hash nao  pode ser recuperado.
+
 
