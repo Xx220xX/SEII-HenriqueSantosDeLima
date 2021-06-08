@@ -53,4 +53,10 @@ O uso da criptografia  gerando hash é usado para minerar bitcoin, a fim de obte
 O protocolo TSL/SSL permite que duas maquinas se comuniquem  com criptografia sendo que cada  uma desconhece a chave da outra, para isso é utilizado algumas tecnicas que envolvem matematica  para estabelecer uma comunicação. De modo que somente com os dados comunicados entre eles não sejam suficientes para descobrir a chave de alguma das maquinas.
 
 
+# [ICP BRASIL](https://www.gov.br/iti/pt-br/acesso-a-informacao/perguntas-frequentes/icp-brasil)
+
+Fornece o certificado de segurança para empresas e pessoas brasileiras
+Utilizado para identificar antes de iniciar a troca de chaves para comunicação SSL.
+
+
 
