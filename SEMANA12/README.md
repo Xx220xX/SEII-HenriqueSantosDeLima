@@ -31,7 +31,7 @@ evitando alguns problemas.
 O melhor metodo para armazernar senhas é o uso da criptografia unidirecional, onde o embarcado salva apenas o codigo digerido e quando a senha é inserida é feito o hash novamente e comparada.
 Nunca guardar as senhas em modo texto ou encriptadas, apenas no modo hash.
 
- Como a criptografia simetrica funciona?
+Como a criptografia simetrica funciona?
  
 INSERE CHAVE, INSERE MENSAGEM
 PASSA POR FUNÇÃO
@@ -44,5 +44,10 @@ PASSA POR FUNÇÃO
 
 
 a criptografia é possivel recuperar a mensagem original, o hash nao  pode ser recuperado.
+
+# [Ainda sobre criptografia e hash](https://www.youtube.com/watch?v=HCHqtpipwu4&t=6s)
+
+O uso da criptografia  gerando hash é usado para minerar bitcoin, a fim de obter um hash especifico e os bits que o geraram, recebendo atualmente 12 bitcoins .
+
 
 
