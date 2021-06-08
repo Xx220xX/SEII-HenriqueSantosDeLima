@@ -50,5 +50,7 @@ a criptografia é possivel recuperar a mensagem original, o hash nao  pode ser r
 O uso da criptografia  gerando hash é usado para minerar bitcoin, a fim de obter um hash especifico e os bits que o geraram, recebendo atualmente 12 bitcoins por hash gerado.
 
 
+O protocolo TSL/SSL permite que duas maquinas se comuniquem  com criptografia sendo que cada  uma desconhece a chave da outra, para isso é utilizado algumas tecnicas que envolvem matematica  para estabelecer uma comunicação. De modo que somente com os dados comunicados entre eles não sejam suficientes para descobrir a chave de alguma das maquinas.
+
 
 
