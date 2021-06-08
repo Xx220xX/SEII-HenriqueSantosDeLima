@@ -23,3 +23,8 @@ O uso de bloqueio de portas ajuda na segurança do seu servidor, escutando naque
 
 Devido a possiveis erros vindos junto com as atualização, é recomendado que a atualização nao seja automatica e que seja feita manualmente apenas quando for uma atualização de segurança
 evitando alguns problemas.
+
+
+#[Entendendo Conceitos Básicos de CRIPTOGRAFIA](https://youtu.be/CcU5Kc_FN_4)
+O melhor metodo para armazernar senhas é o uso da criptografia unidirecional, onde o embarcado salva apenas o codigo digerido e quando a senha é inserida é feito o hash novamente e comparada.
+
