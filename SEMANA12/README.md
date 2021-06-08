@@ -26,7 +26,7 @@ Devido a possiveis erros vindos junto com as atualização, é recomendado que a
 evitando alguns problemas.
 
 
-#[Entendendo Conceitos Básicos de CRIPTOGRAFIA](https://youtu.be/CcU5Kc_FN_4)
+# [Entendendo Conceitos Básicos de CRIPTOGRAFIA](https://youtu.be/CcU5Kc_FN_4)
 
 O melhor metodo para armazernar senhas é o uso da criptografia unidirecional, onde o embarcado salva apenas o codigo digerido e quando a senha é inserida é feito o hash novamente e comparada.
 Nunca guardar as senhas em modo texto ou encriptadas, apenas no modo hash.
