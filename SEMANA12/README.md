@@ -47,7 +47,8 @@ a criptografia é possivel recuperar a mensagem original, o hash nao  pode ser r
 
 # [Ainda sobre criptografia e hash](https://www.youtube.com/watch?v=HCHqtpipwu4&t=6s)
 
-O uso da criptografia  gerando hash é usado para minerar bitcoin, a fim de obter um hash especifico e os bits que o geraram, recebendo atualmente 12 bitcoins .
+O uso da criptografia  gerando hash é usado para minerar bitcoin, a fim de obter um hash especifico e os bits que o geraram, recebendo atualmente 12 bitcoins por hash gerado.
+
 
 
 
